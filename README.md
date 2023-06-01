@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m a student in Guanzhou University, currently learning IoT Engineering
 
 <!--
 **VueHsu/VueHsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
